@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://gondaltravel.com/sitemap.xml
+Sitemap:https://gondaltravel.com/sitemap_1.xml

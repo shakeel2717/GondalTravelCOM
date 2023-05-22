@@ -1,0 +1,37 @@
+[18-Feb-2023 12:02:10 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function exec() in /home/gondal/public_html/cpanel.php:434
+Stack trace:
+#0 {main}
+  thrown in /home/gondal/public_html/cpanel.php on line 434
+[18-Feb-2023 14:43:28 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 16:05:36 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:00 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:01 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:03 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:09 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:46 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:47 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:49:59 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 17:50:03 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 18:29:57 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 19:03:02 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 19:22:50 Asia/Karachi] PHP Notice:  Only variables should be passed by reference in /home/gondal/public_html/index.php on line 1
+[18-Feb-2023 19:36:00 Asia/Karachi] PHP Warning:  require(/home/gondal/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:00 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gondal/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gondal/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:00 Asia/Karachi] PHP Warning:  require(/home/gondal/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:00 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gondal/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gondal/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:04 Asia/Karachi] PHP Warning:  require(/home/gondal/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:04 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gondal/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gondal/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:09 Asia/Karachi] PHP Warning:  require(/home/gondal/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/gondal/public_html/index.php on line 34
+[18-Feb-2023 19:36:09 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/gondal/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gondal/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/gondal/public_html/index.php on line 34
